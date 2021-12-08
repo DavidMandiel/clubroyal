@@ -16,6 +16,7 @@ const PORT = process.env.PORT || 80;
 
 app.use(express.json({ extended: false }));
 app.use(cors());
+app.use(express.static('build'));
 
 // API Routes
 app.use('/api/users', usersRoute);
@@ -26,8 +27,6 @@ app.get('/', (req, res) => {
 	res.send('Welcome to api');
 	console.log(req);
 });
-
-app.use(express.static('build'));
 app.listen(PORT, () => {
 	console.log(`Server running on port...${PORT} `);
 });
