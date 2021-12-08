@@ -26,6 +26,8 @@ app.get('/', (req, res) => {
 	res.send('Welcome to api');
 	console.log(req);
 });
+
+app.use(express.static('build'));
 app.listen(PORT, () => {
 	console.log(`Server running on port...${PORT} `);
 });
