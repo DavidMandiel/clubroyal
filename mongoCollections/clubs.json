@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "60f30668cb8f521e9cd7ad0c"
+  },
+  "events": [
+    {
+      "$oid": "60fd2fe72712ef2040b5f7cd"
+    },
+    {
+      "$oid": "60fe70f0477c321af012d196"
+    }
+  ],
+  "name": "Hello World",
+  "manager": {
+    "$oid": "60e1bae3fa857c6814b74df8"
+  },
+  "description": "sadfasd sadfasdfasdfasdfasd sadfasdfasdfasdfasd",
+  "dateCreated": {
+    "$date": "2021-07-17T16:33:44.226Z"
+  },
+  "members": [],
+  "pendingRequest": [
+    {
+      "_id": {
+        "$oid": "618ab2285ffeb42d44609e81"
+      },
+      "user": {
+        "$oid": "60e2010d0fac606db80c803c"
+      },
+      "date": {
+        "$date": "2021-11-09T17:38:48.042Z"
+      }
+    }
+  ],
+  "__v": 190,
+  "clubLogo": "/images/niki.jpg"
+},{
+  "_id": {
+    "$oid": "6106caad6bd2292e64f359c6"
+  },
+  "events": [
+    {
+      "$oid": "610955e3f6c54e32646ff163"
+    },
+    {
+      "$oid": "610955e7f6c54e32646ff16c"
+    },
+    {
+      "$oid": "610955f1f6c54e32646ff175"
+    },
+    {
+      "$oid": "610955f2f6c54e32646ff17e"
+    }
+  ],
+  "name": "Didi",
+  "manager": {
+    "$oid": "60e1bae3fa857c6814b74df8"
+  },
+  "description": "Tournament and Cash",
+  "dateCreated": {
+    "$date": "2021-08-01T16:24:13.841Z"
+  },
+  "members": [],
+  "pendingRequest": [
+    {
+      "_id": {
+        "$oid": "618ab2345ffeb42d44609eb9"
+      },
+      "user": {
+        "$oid": "60e2010d0fac606db80c803c"
+      },
+      "date": {
+        "$date": "2021-11-09T17:39:00.310Z"
+      }
+    }
+  ],
+  "__v": 163,
+  "clubLogo": "/images/iphone.png"
+},{
+  "_id": {
+    "$oid": "6107221786869e2ddc1d08c1"
+  },
+  "events": [
+    {
+      "$oid": "6107208786869e2ddc1d08bf"
+    }
+  ],
+  "name": "Dave Wave",
+  "manager": {
+    "$oid": "60e1bae3fa857c6814b74df8"
+  },
+  "description": "Tournament and Cash",
+  "dateCreated": {
+    "$date": "2021-08-01T16:24:13.841Z"
+  },
+  "members": [
+    {
+      "_id": {
+        "$oid": "61869d65d766e04638d2d7f2"
+      },
+      "user": {
+        "$oid": "60e2010d0fac606db80c803c"
+      },
+      "date": {
+        "$date": "2021-11-06T15:21:09.854Z"
+      }
+    }
+  ],
+  "pendingRequest": [],
+  "__v": 86,
+  "clubLogo": "/images/KKunsplash.jpg"
+},{
+  "_id": {
+    "$oid": "61095578f6c54e32646ff152"
+  },
+  "events": [],
+  "name": "Darling",
+  "manager": {
+    "$oid": "60e1bae3fa857c6814b74df8"
+  },
+  "description": "The Best in the world",
+  "dateCreated": {
+    "$date": "2021-08-03T14:40:56.210Z"
+  },
+  "members": [],
+  "pendingRequest": [],
+  "__v": 79,
+  "clubLogo": "/images/rip.jpg"
+},{
+  "_id": {
+    "$oid": "612e21b86087f40f289ce143"
+  },
+  "events": [],
+  "name": "Tali's Monster Club",
+  "manager": {
+    "$oid": "60e2010d0fac606db80c803c"
+  },
+  "description": "asfasdfasdfsadfasdfaskfhakjhlksdjhmbzxcmvz xzvkhjzxkv zkcxvjhz zkjhcv zkxcjv kjzhcvx kzxjcv kjzhcxv kzjcxv kjhzx kvz vkzjcvvcv",
+  "dateCreated": {
+    "$date": "2021-08-31T12:34:00.522Z"
+  },
+  "members": [
+    {
+      "_id": {
+        "$oid": "61a07f9a7b898b486041043b"
+      },
+      "user": {
+        "$oid": "60e1bae3fa857c6814b74df8"
+      },
+      "date": {
+        "$date": "2021-11-26T06:32:58.874Z"
+      }
+    }
+  ],
+  "pendingRequest": [],
+  "__v": 68,
+  "clubLogo": "/images/login-bg.jpg"
+}]

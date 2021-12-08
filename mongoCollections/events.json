@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "60fd2fe72712ef2040b5f7cd"
+  },
+  "location": {
+    "coordinates": {
+      "lat": "48.8328108",
+      "lng": "2.325965"
+    },
+    "streetNumber": "12 ",
+    "city": "Paris",
+    "country": "France",
+    "state": ""
+  },
+  "dateUpdated": [
+    {
+      "$date": "2021-09-28T09:59:11.205Z"
+    },
+    {
+      "$date": "2021-11-26T06:31:26.454Z"
+    }
+  ],
+  "currency": "",
+  "club": {
+    "$oid": "60f30668cb8f521e9cd7ad0c"
+  },
+  "eventName": "Let My people go",
+  "eventDate": "Thu Oct 28 2021 13:25:00 GMT+0300 (שעון ישראל (קיץ))",
+  "description": "adasd",
+  "gameType": "THNL",
+  "playersPerTable": 9,
+  "numberOfTables": 1,
+  "remarks": "",
+  "cashGame": {
+    "smallBlind": 12,
+    "bigBlind": 12,
+    "minBuyin": 12,
+    "maxBuyin": 12
+  },
+  "dateCreated": {
+    "$date": "2021-07-25T09:33:27.247Z"
+  },
+  "__v": 44,
+  "eventLogo": "/images/aces.jpg",
+  "players": []
+},{
+  "_id": {
+    "$oid": "60fe70f0477c321af012d196"
+  },
+  "location": {
+    "coordinates": {
+      "lat": "52.2223037",
+      "lng": "21.0110216"
+    },
+    "streetNumber": "63 ",
+    "city": "Warszawa",
+    "country": "Poland",
+    "state": ""
+  },
+  "tournament": {
+    "startingBlinds": {
+      "smallBlind": 2,
+      "bigBlind": 2,
+      "ante": 1
+    },
+    "buyIn": 10,
+    "startingChips": 30000,
+    "timePerLevel": "30min",
+    "registerUntil": "12lvl",
+    "numberOfRe_entry": 2
+  },
+  "dateUpdated": [
+    {
+      "$date": "2021-09-26T08:34:35.496Z"
+    },
+    {
+      "$date": "2021-09-26T08:42:35.288Z"
+    },
+    {
+      "$date": "2021-09-26T08:43:44.724Z"
+    },
+    {
+      "$date": "2021-09-26T09:17:30.053Z"
+    },
+    {
+      "$date": "2021-09-26T09:17:44.797Z"
+    },
+    {
+      "$date": "2021-09-26T13:22:26.638Z"
+    },
+    {
+      "$date": "2021-09-26T13:23:48.151Z"
+    },
+    {
+      "$date": "2021-09-28T10:01:57.455Z"
+    },
+    {
+      "$date": "2021-10-16T13:41:55.235Z"
+    },
+    {
+      "$date": "2021-10-18T15:08:31.978Z"
+    },
+    {
+      "$date": "2021-11-13T07:38:52.735Z"
+    }
+  ],
+  "currency": "",
+  "club": {
+    "$oid": "60f30668cb8f521e9cd7ad0c"
+  },
+  "eventName": "Monday Night Tournament",
+  "eventDate": "Wed Nov 24 2021 11:54:00 GMT+0200 (שעון ישראל (חורף))",
+  "description": "new tournamnet",
+  "gameType": "THNL",
+  "playersPerTable": 9,
+  "numberOfTables": 1,
+  "dateCreated": {
+    "$date": "2021-07-26T08:23:12.585Z"
+  },
+  "players": [
+    {
+      "_id": {
+        "$oid": "60e2010d0fac606db80c803c"
+      }
+    }
+  ],
+  "__v": 20,
+  "eventLogo": "/images/electric_cards.jpg",
+  "eventTime": "08:51:00"
+},{
+  "_id": {
+    "$oid": "6107208786869e2ddc1d08bf"
+  },
+  "location": {
+    "coordinates": {
+      "lat": "48.8328108",
+      "lng": "2.325965"
+    },
+    "streetNumber": "12 ",
+    "city": "Paris",
+    "country": "France",
+    "state": ""
+  },
+  "dateUpdated": [],
+  "currency": "",
+  "club": {
+    "$oid": "6107221786869e2ddc1d08c1"
+  },
+  "eventName": "Late night",
+  "eventDate": {
+    "$date": "2021-07-13T09:25:00Z"
+  },
+  "description": "adasd",
+  "gameType": "THNL",
+  "playersPerTable": 9,
+  "numberOfTables": 1,
+  "remarks": "",
+  "cashGame": {
+    "smallBlind": 12,
+    "bigBlind": 12,
+    "minBuyin": 12,
+    "maxBuyin": 12
+  },
+  "dateCreated": {
+    "$date": "2021-07-25T09:33:27.247Z"
+  },
+  "players": [],
+  "__v": 23,
+  "eventLogo": "/images/texasH.jpg"
+},{
+  "_id": {
+    "$oid": "610955e3f6c54e32646ff163"
+  },
+  "location": {
+    "coordinates": {
+      "lat": "48.1391944",
+      "lng": "11.7004961"
+    },
+    "streetNumber": "12 ",
+    "city": "München",
+    "country": "Germany",
+    "state": ""
+  },
+  "dateUpdated": [],
+  "currency": "ILS",
+  "club": {
+    "$oid": "6106caad6bd2292e64f359c6"
+  },
+  "eventName": "Blaha",
+  "eventDate": {
+    "$date": "2021-08-04T14:42:00Z"
+  },
+  "description": "",
+  "gameType": "THNL",
+  "playersPerTable": 9,
+  "numberOfTables": 1,
+  "cashGame": {
+    "smallBlind": 5,
+    "bigBlind": 5,
+    "minBuyin": null,
+    "maxBuyin": 500
+  },
+  "dateCreated": {
+    "$date": "2021-08-03T14:42:43.827Z"
+  },
+  "players": [],
+  "__v": 13,
+  "eventLogo": "/images/chips.jpg"
+},{
+  "_id": {
+    "$oid": "610955e7f6c54e32646ff16c"
+  },
+  "location": {
+    "coordinates": {
+      "lat": "48.1391944",
+      "lng": "11.7004961"
+    },
+    "streetNumber": "12 ",
+    "city": "München",
+    "country": "Germany",
+    "state": ""
+  },
+  "dateUpdated": [],
+  "currency": "ILS",
+  "club": {
+    "$oid": "6106caad6bd2292e64f359c6"
+  },
+  "eventName": "new",
+  "eventDate": {
+    "$date": "2021-08-04T14:42:00Z"
+  },
+  "description": "",
+  "gameType": "THNL",
+  "playersPerTable": 9,
+  "numberOfTables": 1,
+  "cashGame": {
+    "smallBlind": 5,
+    "bigBlind": 5,
+    "minBuyin": null,
+    "maxBuyin": 500
+  },
+  "dateCreated": {
+    "$date": "2021-08-03T14:42:47.302Z"
+  },
+  "__v": 25,
+  "eventLogo": "/images/p5.jpg",
+  "players": []
+},{
+  "_id": {
+    "$oid": "610955f1f6c54e32646ff175"
+  },
+  "location": {
+    "coordinates": {
+      "lat": "48.1391944",
+      "lng": "11.7004961"
+    },
+    "streetNumber": "12 ",
+    "city": "München",
+    "country": "Germany",
+    "state": ""
+  },
+  "dateUpdated": [],
+  "currency": "ILS",
+  "club": {
+    "$oid": "6106caad6bd2292e64f359c6"
+  },
+  "eventName": "new cash game",
+  "eventDate": {
+    "$date": "2021-08-04T14:42:00Z"
+  },
+  "description": "שד",
+  "gameType": "THNL",
+  "playersPerTable": 9,
+  "numberOfTables": 1,
+  "cashGame": {
+    "smallBlind": 5,
+    "bigBlind": 5,
+    "minBuyin": null,
+    "maxBuyin": 500
+  },
+  "dateCreated": {
+    "$date": "2021-08-03T14:42:57.017Z"
+  },
+  "players": [],
+  "__v": 18
+},{
+  "_id": {
+    "$oid": "610955f2f6c54e32646ff17e"
+  },
+  "location": {
+    "coordinates": {
+      "lat": "48.1391944",
+      "lng": "11.7004961"
+    },
+    "streetNumber": "12 ",
+    "city": "München",
+    "country": "Germany",
+    "state": ""
+  },
+  "dateUpdated": [],
+  "currency": "ILS",
+  "club": {
+    "$oid": "6106caad6bd2292e64f359c6"
+  },
+  "eventName": "$$$$$",
+  "eventDate": {
+    "$date": "2021-08-04T14:42:00Z"
+  },
+  "description": "שד",
+  "gameType": "THNL",
+  "playersPerTable": 9,
+  "numberOfTables": 1,
+  "cashGame": {
+    "smallBlind": 5,
+    "bigBlind": 5,
+    "minBuyin": null,
+    "maxBuyin": 500
+  },
+  "dateCreated": {
+    "$date": "2021-08-03T14:42:58.249Z"
+  },
+  "players": [],
+  "__v": 8
+}]

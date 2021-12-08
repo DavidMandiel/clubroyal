@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "60e1bae3fa857c6814b74df8"
+  },
+  "regclubs": [
+    {
+      "$oid": "612e21b86087f40f289ce143"
+    }
+  ],
+  "regevents": [],
+  "createdevents": [],
+  "name": "DAVID MANDIEL",
+  "email": "r@r.co.il",
+  "password": "$2a$10$XQLDSpaeKBDbsCGvxb5aDOVqp5RQfdGP2q18bg4PA6KjsopLWQO2u",
+  "date": {
+    "$date": "2021-07-04T13:42:59.655Z"
+  },
+  "__v": 40,
+  "createdclubs": [
+    {
+      "$oid": "60f30668cb8f521e9cd7ad0c"
+    },
+    {
+      "$oid": "6106caad6bd2292e64f359c6"
+    },
+    {
+      "$oid": "61095578f6c54e32646ff152"
+    },
+    {
+      "$oid": "6107221786869e2ddc1d08c1"
+    }
+  ],
+  "pendingclubrequest": [],
+  "avatar": "/images/p1.jpg"
+},{
+  "_id": {
+    "$oid": "60e2010d0fac606db80c803c"
+  },
+  "createdclubs": [
+    {
+      "$oid": "612e21b86087f40f289ce143"
+    }
+  ],
+  "createdevents": [],
+  "name": "tali",
+  "email": "t@t.co.il",
+  "password": "$2a$10$ziSV2WVysNnI5fyKUZMYb.EO0YHNUfa1rbvlFyepQ2YkV0kSsUVBu",
+  "date": {
+    "$date": "2021-07-04T18:42:21.245Z"
+  },
+  "__v": 7228,
+  "regclubs": [
+    {
+      "$oid": "6107221786869e2ddc1d08c1"
+    }
+  ],
+  "pendingclubrequest": [
+    {
+      "$oid": "60f30668cb8f521e9cd7ad0c"
+    },
+    {
+      "$oid": "6106caad6bd2292e64f359c6"
+    }
+  ],
+  "regevents": [],
+  "avatar": "/images/g1.jpg"
+},{
+  "_id": {
+    "$oid": "60e3ed52a79d2d41a4909883"
+  },
+  "regevents": [],
+  "createdclubs": [],
+  "createdevents": [],
+  "name": "ELi",
+  "email": "eli@gmail.com",
+  "password": "$2a$10$IaasVNlWgf425aj02zuAEuP0A.x15teqiDYFGGsbz0SPDclJWSctS",
+  "date": {
+    "$date": "2021-07-06T05:42:42.164Z"
+  },
+  "__v": 579,
+  "pendingclubrequest": [],
+  "regclubs": [],
+  "avatar": "/images/p2.jpg"
+}]
