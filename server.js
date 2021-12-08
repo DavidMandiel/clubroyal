@@ -12,20 +12,20 @@ const usersRoute = require('./routes/users');
 const clubsRoute = require('./routes/clubs');
 const eventsRoute = require('./routes/events');
 
-const PORT = process.env.PORT || 5000;
-console.log(PORT);
+const PORT = process.env.PORT || 80;
+
 app.use(express.json({ extended: false }));
 app.use(cors());
 
 // API Routes
-app.get('/', (req, res) => {
-	res.send('Welcome to api');
-	console.log(req);
-});
 app.use('/api/users', usersRoute);
 app.use('/api/clubs', clubsRoute);
 app.use('/api/events', eventsRoute);
 
+// app.get('/', (req, res) => {
+// 	res.send('Welcome to api');
+// 	console.log(req);
+// });
 app.listen(PORT, () => {
 	console.log(`Server running on port...${PORT} `);
 });
