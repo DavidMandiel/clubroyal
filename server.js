@@ -12,7 +12,7 @@ const usersRoute = require('./routes/users');
 const clubsRoute = require('./routes/clubs');
 const eventsRoute = require('./routes/events');
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 80;
 
 app.use(express.json({ extended: false }));
 app.use(cors());
