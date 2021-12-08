@@ -25,8 +25,7 @@ app.use('/api/events', eventsRoute);
 
 app.get('/', (req, res) => {
 	res.send('Welcome to api');
-	console.log(req);
-});
+	});
 app.listen(PORT, () => {
 	console.log(`Server running on port...${PORT} `);
 });
