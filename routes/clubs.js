@@ -383,7 +383,7 @@ router.put('/join/:club_id', authUser, async (req, res) => {
 		) {
 			return res
 				.status(400)
-				.json({ msg: 'You are already a memeber of this club' });
+				.json({ msg: 'You are already a member of this club' });
 		}
 		if (
 			pendingRequests.filter((member) => member.user.toString() == req.user)
